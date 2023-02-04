@@ -1,0 +1,7 @@
+com\book\demo\controller\BookController.class
+com\book\demo\DemoApplication.class
+com\book\demo\model\BookNameModel.class
+com\book\demo\service\BookService.class
+com\book\demo\model\BookModel.class
+com\book\demo\repo\BookRepo.class
+com\book\demo\ServletInitializer.class
